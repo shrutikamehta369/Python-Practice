@@ -15,3 +15,4 @@ for w in dict:
     if dict[w] > max_count:
         max_count=dict[w]
         max_word=w
+print (max_word)
